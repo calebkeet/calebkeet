@@ -1,6 +1,8 @@
 ## Hello!
+I'm a physics student with more art experience than coding experience...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **calebkeet/calebkeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
