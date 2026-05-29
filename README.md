@@ -1,5 +1,5 @@
 ## Hello!
-I'm a physics student with more art experience than coding experience...
+I'm a senior undergrad physics student and observational cosmology research assistant :)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats-one-omega-28.vercel.app/api?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-one-omega-28.vercel.app//api/top-langs/?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)-->
