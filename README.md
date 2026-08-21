@@ -2,7 +2,8 @@
 I'm a senior undergrad physics student and observational cosmology research assistant :)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats-one-omega-28.vercel.app/api?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats-one-omega-28.vercel.app//api/top-langs/?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats-one-omega-28.vercel.app//api/top-langs/?username=calebkeet)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=calebkeet)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **calebkeet/calebkeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
